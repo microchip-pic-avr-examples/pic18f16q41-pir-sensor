@@ -12,7 +12,7 @@
 extern "C" {
 #endif
 
-#define TRIGGER_SENSITIVITY 25 // DAC Step Size ~= 19mV;  
+#define TRIGGER_SENSITIVITY 22 // DAC Step Size ~= 19mV;  
 #define DAC_RESOLUTION 256 // 2^8 = 256
 #define ADC_RESOLUTION 4096 // 2^12 = 4096
 
